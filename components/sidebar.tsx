@@ -34,7 +34,7 @@ export function Sidebar({ activeView, onViewChange, collapsed, onToggleCollapse 
             <div className="flex h-8 w-8 items-center justify-center rounded-lg bg-primary">
               <Leaf className="h-5 w-5 text-primary-foreground" />
             </div>
-            <span className="text-lg font-semibold">AgroConnect360</span>
+            <span className="text-lg font-semibold">AgroConnect</span>
           </div>
         )}
         <Button
